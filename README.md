@@ -9,7 +9,7 @@ Some challenges I faced was individually listing the string of characters to be 
 
 ## Site URL
 
-[PW URL](https://puzzlesx1.github.io/Password-Gen/)
+[Password Gen URL](https://puzzlesx1.github.io/Javascript-Password-Generator/)
 
 ## Site Images
 
